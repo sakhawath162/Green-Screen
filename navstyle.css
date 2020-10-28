@@ -1,0 +1,27 @@
+.topnav {
+	  
+	  height: 60px;
+	  overflow: hidden;
+      background-color:  #DC143C;
+  }
+  
+  .topnav .logout {
+  float: right;
+}
+
+.topnav .logout button {
+  float: right;
+  padding: 6px 20px;
+  margin-top: 14px;
+  margin-right: 16px;
+  background-color: #555;
+  color: white;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+
+
+
+ 
