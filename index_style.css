@@ -1,0 +1,12 @@
+.body {
+  background-color: #80E9C8;
+  color: #0D4E39;
+}
+.head {
+  color: #0D4E39;
+  text-align: center;
+}
+canvas {
+  border: 1px dashed black;
+  width: 400px;
+}
